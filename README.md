@@ -2,7 +2,7 @@
 Bloxfruits CPA Website - This is a template for a roblox cpa website.
 ----------------------
 
-WRITTEN BY: fbdh (on discord)
+WRITTEN BY: fbdh (on discord) a remake of Elijah website
 
 CONTRIBUTE: Contributions are always welcome!
 
